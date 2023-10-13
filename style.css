@@ -135,7 +135,6 @@ header * {
 }
 
 #about .title,
-#offers .title,
 #menu .title {
   text-align: center;
   margin-bottom: 4rem;
@@ -355,14 +354,6 @@ form button {
 
   #about img {
     width: 250px;
-  }
-
-  #offers .offers-items img {
-    width: 150px;
-  }
-
-  #offers .offers-items h3 {
-    font-size: 18px;
   }
 
   #menu .menu-items {
