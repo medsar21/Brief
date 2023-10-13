@@ -356,15 +356,6 @@ form button {
   #about img {
     width: 250px;
   }
-
-  #offers .offers-items img {
-    width: 150px;
-  }
-
-  #offers .offers-items h3 {
-    font-size: 18px;
-  }
-
   #menu .menu-items {
     display: block;
   }
@@ -401,15 +392,6 @@ form button {
 
     #about img {
       display: none;
-    }
-
-    #offers {
-      height: auto;
-      padding: 30px 10px;
-    }
-
-    #offers .offers-items {
-      flex-direction: column;
     }
 
     #menu .menu-items .menu-item {
