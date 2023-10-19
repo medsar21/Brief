@@ -1,6 +1,5 @@
 Jour 1 : 
- 
-  Analyse de la maquette de la page d'accueil en Figma, prise de notes sur les styles, les éléments et la mise en page.
+ Analyse de la maquette de la page d'accueil en Figma, prise de notes sur les styles, les éléments et la mise en page.
 Conception de la maquette de la page "Menu" en Figma, en mettant en valeur les plats et les offres du restaurant.
 Jour 2 : 
   Conception de la maquette de la page "À Propos" en Figma, en mettant en avant l'histoire et la vision du restaurant.
